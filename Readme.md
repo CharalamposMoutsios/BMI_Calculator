@@ -1,0 +1,3 @@
+# Info
+
+In this example, the calculate_bmi() function takes weight (in kg) and height (in cm) as input and calculates the BMI using the formula BMI = weight / (height^2) where height is converted to meters. The get_health_category() function takes the calculated BMI as input and determines the health category (e.g., underweight, normal weight, overweight, or obese) based on predefined BMI ranges. The example usage prompts the user to enter weight and height, calculates the BMI, and displays the calculated BMI and health category. You can customize the health category ranges or add additional functionality to the project as desired.
